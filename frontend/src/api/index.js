@@ -1,5 +1,5 @@
-// export const SERVER_API = 'https://api-vuivuicode.herokuapp.com';
-export const SERVER_API = 'http://localhost:8000';
+export const SERVER_API = 'https://vuivuicode.herokuapp.com';
+// export const SERVER_API = 'http://localhost:8000';
 
 const LOGIN_API = SERVER_API + '/api/auth/login';
 const CATEGORY_ALL_API = SERVER_API + '/api/category/all';
